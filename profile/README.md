@@ -64,7 +64,7 @@ Enterprise‑grade proxy infrastructure for large‑scale, compliant web data co
 - Unified console and APIs for configuration, rotation, and monitoring
 - API （ip:port）and password （USERNAME:PASSWORD）authentication
 - Rotating & Sticky (90-minute) Flexible Sessions
-- [Sign up for thordata to get a **3-day trial**](https://www.thordata.com/?ls=dgb&lk=dgb) and verify your email
+- [Sign up for thordata to get a **3-day trial**](https://www.thordata.com/?ls=github&lk=thordata) and verify your email
   
 
 For a full overview, see the **Proxy Solutions** section on the Thordata website.  
