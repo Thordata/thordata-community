@@ -4,7 +4,7 @@
     <strong>Residential Proxies & Datasets for Global Data Workflows</strong>
   </p>
   <p>
-    <a href="https://www.thordata.com/?ls=dgb&lk=dgb">🌐 Website</a> ·
+    <a href="https://www.thordata.com/products/residential-proxies?op=flora&from=github">🌐 Website</a> ·
     <a href="https://doc.thordata.com">📚 Documentation</a> ·
     <a href="https://www.thordata.com/blog">📊 Blog</a> ·
     <a href="mailto:support@thordata.com">📧 Support</a>
