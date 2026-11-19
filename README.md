@@ -1,7 +1,7 @@
 <div align="center">
   <h1>⚡ Thordata</h1>
   <p>
-    <strong>Residential Proxies & Datasets for Global Data Workflows</strong>
+    <strong>Web Data Infrastructure for Developers and AI Workflows</strong>
   </p>
   <p>
     <a href="https://www.thordata.com/products/residential-proxies?op=flora&from=github">🌐 Website</a> ·
