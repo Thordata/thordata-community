@@ -77,7 +77,7 @@ Give your agents and LLMs real‑time **browsing, search, and monitoring** super
 
 | Repository | Description | Status |
 | :--- | :--- | :--- |
-| [**thordata-mcp-server**](https://github.com/Thordata/thordata-mcp-server) | 🤖 **AI Bridge**: MCP server that connects Claude Desktop / OpenAI clients directly to Thordata web data. | ✅ Stable |
+| [**thordata-mcp-server**](https://github.com/Thordata/thordata-mcp) | 🤖 **AI Bridge**: MCP server that connects Claude Desktop / OpenAI clients directly to Thordata web data. | ✅ Stable |
 | [**thordata-rag-pipeline**](https://github.com/Thordata/thordata-rag-pipeline) | 🔍 **RAG Pipeline**: End‑to‑end pipeline to clean → structure → chunk → embed web data for retrieval. | 🟠 Evolving |
 | [**thordata-langchain-tools**](https://github.com/Thordata/thordata-langchain-tools) | 🦜🔗 **LangChain Tools**: Official toolset that turns Thordata into plug‑and‑play browsing / scraping tools. | 🟠 Evolving |
 
@@ -89,10 +89,10 @@ Production‑grade, type‑safe clients for every major stack. All four language
 
 | Language | Repository | Highlights |
 | :--- | :--- | :--- |
-| **Python** | [**thordata-python-sdk**](https://github.com/Thordata/thordata-python-sdk) | Flagship SDK · Async‑first · Full type hints · Deep integrations with data & AI tooling. |
-| **Node.js** | [**thordata-js-sdk**](https://github.com/Thordata/thordata-js-sdk) | TypeScript‑first · Ideal for serverless, edge runtimes, and Puppeteer / Playwright workloads. |
-| **Go** | [**thordata-go-sdk**](https://github.com/Thordata/thordata-go-sdk) | High‑concurrency, low‑latency client for large‑scale scraping and data pipelines. |
-| **Java** | [**thordata-java-sdk**](https://github.com/Thordata/thordata-java-sdk) | Enterprise‑ready, thread‑safe implementation for regulated and legacy environments. |
+| **Python** | [**thordata-python**](https://github.com/Thordata/thordata-python) | Flagship SDK · Async-first · Full type hints · Deep integrations with data & AI tooling. |
+| **Node.js** | [**thordata-javascript**](https://github.com/Thordata/thordata-javascript) | TypeScript-first · Ideal for serverless, edge runtimes, and Puppeteer / Playwright workloads. |
+| **Go** | [**thordata-go**](https://github.com/Thordata/thordata-go) | High-concurrency, low-latency client for large-scale scraping and data pipelines. |
+| **Java** | [**thordata-java**](https://github.com/Thordata/thordata-java) | Enterprise-ready, thread-safe implementation for regulated and legacy environments. |
 
 ---
 
