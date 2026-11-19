@@ -77,7 +77,7 @@ Give your agents and LLMs real‑time **browsing, search, and monitoring** super
 
 | Repository | Description | Status |
 | :--- | :--- | :--- |
-| [**thordata-mcp-server**](https://github.com/Thordata/thordata-mcp) | 🤖 **AI Bridge**: MCP server that connects Claude Desktop / OpenAI clients directly to Thordata web data. | ✅ Stable |
+| [**thordata-mcp**](https://github.com/Thordata/thordata-mcp) | 🤖 **AI Bridge**: MCP server that connects Claude Desktop / OpenAI clients directly to Thordata web data. | ✅ Stable |
 | [**thordata-rag-pipeline**](https://github.com/Thordata/thordata-rag-pipeline) | 🔍 **RAG Pipeline**: End‑to‑end pipeline to clean → structure → chunk → embed web data for retrieval. | 🟠 Evolving |
 | [**thordata-langchain-tools**](https://github.com/Thordata/thordata-langchain-tools) | 🦜🔗 **LangChain Tools**: Official toolset that turns Thordata into plug‑and‑play browsing / scraping tools. | 🟠 Evolving |
 
